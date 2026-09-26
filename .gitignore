@@ -1,0 +1,12 @@
+# Local coding-agent configuration and session state
+.claude/
+.agents/
+.codex/
+.opencode/
+.cursor/
+.windsurf/
+.gemini/
+.aider*/
+.vscode/mcp.json
+/opencode.json
+/opencode.jsonc
