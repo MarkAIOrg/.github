@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Product bugs and feature requests (Linear)
+    url: https://linear.app
+    about: MarkAIOrg tracks product work in its Linear workspace.
+  - name: Report a security vulnerability
+    url: https://github.com/MarkAIOrg/.github/security/policy
+    about: Use the private reporting instructions; do not file a public issue.
